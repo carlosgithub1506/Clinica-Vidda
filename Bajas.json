@@ -1,0 +1,22 @@
+[
+    {
+        "ID": 19,
+        "Nombre": "Eduardo",
+        "Apellido": "Lopez",
+        "Edad": 38,
+        "Altura": 75,
+        "Peso": 75.0,
+        "DNI": "04000000",
+        "Grupo Sanguíneo": "A+"
+    },
+    {
+        "ID": 20,
+        "Nombre": "Marcelo",
+        "Apellido": "Andrade",
+        "Edad": 60,
+        "Altura": 170,
+        "Peso": 70.0,
+        "DNI": "04000000",
+        "Grupo Sanguíneo": "A+"
+    }
+]
