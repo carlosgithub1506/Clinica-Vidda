@@ -80,7 +80,7 @@ def menu(lista:list[dict], path, lista_compatibilidad:list[dict], matriz:list[li
             list_validos = mostrar_compatibles(tipo_sangre, lista_compatibilidad)
             buscar_mostrar_donates(list_validos,lista)
 
-        elif select == "I" :#and flag == True:
+        elif select == "I" and flag == True:
             # tercera parte
             matriz = sumar_coincidencia(matriz, lista, lista_compatibilidad)
             mostrar_matriz_tipos_sanguineos(matriz)
