@@ -29,14 +29,14 @@ def menu(lista:list[dict], path, lista_compatibilidad:list[dict], matriz:list[li
         system("cls")
 
         if select == "A":
-            # 1. Ingresar empleado:
+            # 1. Ingresar paciente:
             istuple = ingresar_lista_paciente(lista)
             if type(istuple) == tuple:
                 lista = istuple[0]
                 flag = istuple[1]
 
         elif select == "B" and flag == True :
-            # 2. Modificar empleado:
+            # 2. Modificar paciente:
             lista = mostrar_menu_modificar(lista)
 
         elif select == "C" and flag == True:

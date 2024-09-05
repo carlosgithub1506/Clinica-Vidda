@@ -4,7 +4,7 @@
 
 
 ### Realizado por:
-- Carlos Lopez - Comisión 111
+- Carlos Lopez
 
 ## Descripción
 Este es un programa para la administración de pacientes en una clínica privada que
@@ -42,7 +42,7 @@ Se recorre una lista de diccionarios que se imprime y formatea, para mostrarla e
     Mostrar_lista_paciente() recibe una lista de diccionario la recorrre y muestra todos los elementos en formato de tabla, hace usos de otras funciones para obtener claves de un diccionario y dar formato y mostrar
 
 ~~~ Python (Lenguaje en el que esta escrito)
-def mostrar_lista_paciente(lista:list[dict])->None:
+def mostrar_lista_paciente(lista: list[dict] )-> None:
 
     if type(lista) == list and  len(lista) > 0:
         lista_claves = obtener_claves_dict(lista[0])
@@ -60,3 +60,6 @@ def mostrar_lista_paciente(lista:list[dict])->None:
 
 ## Link del video
 - [Video](https://github.com/carlosgithub1506/PP_PROGRAMACION_I_111_LOPEZ)
+
+## Contacto
+- Correo electronico carlospez.28@gmail.com
