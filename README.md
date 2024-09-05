@@ -62,4 +62,4 @@ def mostrar_lista_paciente(lista: list[dict] )-> None:
 - [Video](https://github.com/carlosgithub1506/PP_PROGRAMACION_I_111_LOPEZ)
 
 ## Contacto
-- Correo electronico carlospez.28@gmail.com
+- carlospez.28@gmail.com
