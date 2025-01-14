@@ -1,7 +1,6 @@
 
 # Nombre y Apellido: carlos lopez
-# Comision 111
-##
+
 
 from data import *
 from Package_funciones.funciones_generales import *

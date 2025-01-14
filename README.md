@@ -59,7 +59,7 @@ def mostrar_lista_paciente(lista: list[dict] )-> None:
 - [Proyecto](https://github.com/carlosgithub1506/PP_PROGRAMACION_I_111_LOPEZ)
 
 ## Link del video
-- [Video](https://github.com/carlosgithub1506/PP_PROGRAMACION_I_111_LOPEZ)
+- [Video](https://youtu.be/P-ozxEl4nOk)
 
 ## Contacto
 - carlospez.28@gmail.com
